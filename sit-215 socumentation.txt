@@ -1,0 +1,48 @@
+VIDEO LINK FOR CODE REPRESENTATION
+https://youtu.be/WLYv7W6pt6I
+
+How files for code work: use pycharm or jupyter notebook then import the files in it and run the code for cartpole etc.
+code files are attached with the submission.
+
+What is included in the submission
+1.) this txt file
+2.) project documentation
+3.) youtube video for code
+4.) 4 python code files on github as deakin do not support py files
+
+github link will be given in documentation and on comments!
+
+Reinforcement Learning is portrayed as a Machine Learning system that is fundamentally
+founded on how programming experts would take essential actions in some random circumstances
+or in given situations. Reinforcement Learning is a part of the significant learning strategy
+that makes an individual enhance some aspect of the cumulative reward. 
+
+AIM
+Introducing a self-driving car in the environment by introducing Reinforcement learning 
+strategies to form a much safer and comfortable ride for the people.
+
+Open AI gym for taxi problem
+GYM is a toolbox for creating and looking at reinforcement learning calculations. 
+It gives distinctive gaming conditions which can be utilized with codes and tried utilizing a specialist. 
+
+discussion on rules, graphs and portraits
+
+Cart pole - alluded to similarly as a Modified Pendulum is a pendulum with a point of convergence 
+of gravity over its turn point. It is wobbly yet can be compelled by moving the turn point under 
+the point of convergence of mass. The goal is to keep the cart pole balanced by applying appropriate forces to a rotate point. 
+
+Difference between the Cart Pole problem and Taxi problem and comparison of Q-learning 
+Q-LEARNING
+
+Essentially, Q-learning lets the specialist use climate's awards to learn, after some time, the best move to make in each state.
+
+notations are also included
+
+Q-tables included
+
+refernces and youtube link in the end.
+
+How the code work
+first install pycharm and jupyter notebook and intall the libraries in it.
+then import the files you code in it and try to tun it it will form a cartpole 
+image moving left right in it.
